@@ -1,14 +1,14 @@
 CREATE TABLE PUBLIC.host_info
 (
-    id			SERIAL NOT NULL,
-    hostname		VARCHAR NOT NULL,
-    cpu_number		SMALLINT NOT NULL,
+    id			        SERIAL NOT NULL,
+    hostname		    VARCHAR NOT NULL,
+    cpu_number		    SMALLINT NOT NULL,
     cpu_architecture	VARCHAR NOT NULL,
-    cpu_model		VARCHAR NOT NULL,
-    cpu_mhz			REAL NOT NULL,
-    L2_cache		INTEGER NOT NULL,
-    total_mem		REAL NOT NULL,
-    timestamp		TIMESTAMP default now(),
+    cpu_model		    VARCHAR NOT NULL,
+    cpu_mhz			    REAL NOT NULL,
+    L2_cache		    INTEGER NOT NULL,
+    total_mem		    REAL NOT NULL,
+    timestamp		    TIMESTAMP default now(),
     CONSTRAINT host_info_pk PRIMARY KEY (id),
     CONSTRAINT host_info_un UNIQUE (hostname)
 );
