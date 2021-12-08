@@ -9,7 +9,7 @@
     },
     {
       "awards_achievements": null,
-      "degree": "Bachelor of Engineering",
+      "degree": "Bachelor of Engineering in Computer Engineering",
       "department": "Computer Engineering",
       "duration": "2011",
       "school_name": "North Gujarat University"
@@ -36,37 +36,12 @@
     },
     {
       "description": [
-        "Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.",
-        "JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.",
-        "Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
+        "Twitter App: Twitter App: Developed an application that uses the Twitter REST API to post, read and delete tweets. The application uses the OAuth 1.0 authentication method and is designed through the MVC architecture, in which business logic and data handling are categorize into separate interactive layers. Maven is used for managing and maintaining the project, which is deployed through a Docker image. JUnit is used for integration and unit testing.",
+        "JDBC App: Developed an application that allows users' manipulating a PostgreSQL database through Java programming. The application is equipped with the ability to perform CRUD (Create, Read, Update, Delete) operations on Customer and Order data. The Data Access Object (DAO) pattern is implemented to manipulate Data Transfer Objects (DTO).",
+        "Grep App: Developed an application to facilitate recursive text-searching based on regular expressions. Given a root directory, the application searches through all files and subdirectories for matches to a specific pattern. The application is deployed through a docker image to ensure consistent runtime environments as well as implements core Java file I/O Stream APIs and Lambda functions, managed with Apache Maven."
       ],
       "git_url": "/core_java",
       "name": "Core Java Apps"
-    },
-    {
-      "description": "",
-      "git_url": "/springboot",
-      "name": "Springboot App"
-    },
-    {
-      "description": "",
-      "git_url": "/python_data_anlytics",
-      "name": "Python Data Analytics"
-    },
-    {
-      "description": "",
-      "git_url": "/hadoop",
-      "name": "Hadoop"
-    },
-    {
-      "description": "",
-      "git_url": "/spark",
-      "name": "Spark"
-    },
-    {
-      "description": "",
-      "git_url": "/cloud_devops",
-      "name": "Cloud/DevOps"
     }
   ],
   "name": "Jaymin Patel",
@@ -129,5 +104,5 @@
       "Git"
     ]
   },
-  "summary": "Software Engineer turned Data professional - My curiosity and passion for Data led me to pursue a career in Data Engineer.Currently, I am a Software/Data Engineer at Jarvis Consulting Group. At Jarvis, I am developing my skill sets using agile software development practices and working hands-on with applications of new technology. I am a strong problem-solver, quick learner and team player who is excited to face challenges and contribute to the success of a team as a Data Engineer."
+  "summary": "Software Engineer turned Data professional - My curiosity and passion for Data led me to pursue a career in Data Engineer. I completed my master's degree in Computer Science from Nirma University. Currently, I am a Data Engineer at Jarvis Consulting Group. At Jarvis, I am developing my skill sets using agile software development practices and working hands-on with applications of new technology such as Docker, Springboot, Java, Maven, REST API, RDBMS, etc. Besides, I am also a team player and an effective communicator, who is always responsible and well-organized. I am a strong problem-solver, quick learner and team player who is excited to face challenges and contribute to the success of a team as a Data Engineer."
 }

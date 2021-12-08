@@ -92,16 +92,16 @@ professional_experience:
 #List of edcuation
 education:
   - school_name: "Nirma University"
-    #duration: "2015"
+    duration: "2015"
     degree: "Master of Technology in Computer Science and Engineering"
-    #department: "Computer Engineering"
+    department: "Computer Engineering"
     # optional
     awards_achievements:
 
   - school_name: "North Gujarat University"
-    #duration: "2011"
+    duration: "2011"
     degree: "Bachelor of Engineering in Computer Engineering"
-    #department: "Computer Engineering"
+    department: "Computer Engineering"
     awards_achievements:
 
 #Optional section
