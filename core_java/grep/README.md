@@ -58,10 +58,10 @@ The application was deployed as a Docker image named jaymin/grep. The image is a
 
 ```bash
 # Pull Docker image
-docker pull williamyll/grep
+docker pull jaymin/grep
 
 # Run Docker container
-docker run --rm -v `pwd`/data:/data -v `pwd`/out:/out williamyll/grep [regex] [rootPath] [outFile]
+docker run --rm -v `pwd`/data:/data -v `pwd`/out:/out jaymin/grep [regex] [rootPath] [outFile]
 ```
 
 # Improvement
