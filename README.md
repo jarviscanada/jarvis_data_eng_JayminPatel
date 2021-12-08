@@ -1,6 +1,6 @@
 # Jaymin Patel . Jarvis Consulting
 
-Software Engineer turned Data professional - My curiosity and passion for Data led me to pursue a career in Data Engineer.Currently, I am a Software/Data Engineer at Jarvis Consulting Group. At Jarvis, I am developing my skill sets using agile software development practices and working hands-on with applications of new technology. I am a strong problem-solver, quick learner and team player who is excited to face challenges and contribute to the success of a team as a Data Engineer.
+Software Engineer turned Data professional - My curiosity and passion for Data led me to pursue a career in Data Engineer. I completed my master's degree in Computer Science from Nirma University. Currently, I am a Data Engineer at Jarvis Consulting Group. At Jarvis, I am developing my skill sets using agile software development practices and working hands-on with applications of new technology such as Docker, Springboot, Java, Maven, REST API, RDBMS, etc. Besides, I am also a team player and an effective communicator, who is always responsible and well-organized. I am a strong problem-solver, quick learner and team player who is excited to face challenges and contribute to the success of a team as a Data Engineer.
 
 ## Skills
 
@@ -19,25 +19,18 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_JayminPate
 
 **Core Java Apps** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_JayminPatel/tree/master/core_java)]:
       
-  - Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.
-  - JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.
-  - Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.
-
-**Springboot App** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_JayminPatel/tree/master/springboot)]: Not Started
-
-**Python Data Analytics** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_JayminPatel/tree/master/python_data_anlytics)]: Not Started
-
-**Hadoop** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_JayminPatel/tree/master/hadoop)]: Not Started
-
-**Spark** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_JayminPatel/tree/master/spark)]: Not Started
-
-**Cloud/DevOps** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_JayminPatel/tree/master/cloud_devops)]: Not Started
+  - Twitter App: Developed an application that uses the Twitter REST API to post, read and delete tweets. The application uses the OAuth 1.0 authentication method and is designed through the MVC architecture, in which business logic and data handling are categorize into separate interactive layers. Maven is used for managing and maintaining the project, which is deployed through a Docker image. JUnit is used for integration and unit testing.
+  
+  - JDBC App: Developed an application that allows users' manipulating a PostgreSQL database through Java programming. The application is equipped with the ability to perform CRUD (Create, Read, Update, Delete) operations on Customer and Order data. The Data Access Object (DAO) pattern is implemented to manipulate Data Transfer Objects (DTO).
+  
+  - Grep App: Developed an application to facilitate recursive text-searching based on regular expressions. Given a root directory, the application searches through all files and subdirectories for matches to a specific pattern. The application is deployed through a docker image to ensure consistent runtime environments as well as implements core Java file I/O Stream APIs and Lambda functions, managed with Apache Maven.
 
 
 ## Highlighted Projects
-**Visualization of Movie on Streaming Platform** [[GitHub](https://github.com/jarviscanada/jarvis_profile_builder)]: Aggregated data from IMDb and rotten tomatoes and used the tableau to build visualization for recommendation movie to targeted age group.
 
-**ChemCorp Case study:**: Using ChemCorp customer data to find insights and make recommendations on product investments and divestments.
+**Visualization of Movie on Streaming Platform** : Aggregated data from IMDb and rotten tomatoes and used the tableau to build visualization for recommendation movie to targeted age group.
+
+**ChemCorp Case study** : Using ChemCorp customer data to find insights and make recommendations on product investments and divestments.
 
 
 ## Professional Experiences
@@ -48,9 +41,9 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_JayminPate
 
 
 ## Education
-**Nirma University (2015)**, Master of Technology in Computer Science and Engineering, Computer Engineering
+**Nirma University** : Master of Technology in Computer Science and Engineering
 
-**North Gujarat University (2011)**, Bachelor of Engineering, Computer Engineering
+**North Gujarat University** : Bachelor of Engineering in Computer Engineering
 
 
 ## Miscellaneous
