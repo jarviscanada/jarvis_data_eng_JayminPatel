@@ -2,7 +2,7 @@
 
 This application uses the Twitter REST API to post, read and delete tweets. The application uses the
 OAuth 1.0 authentication method and is designed through the MVC architecture, in which business
-logic and data handling are compartmentalized into separate interactive layers. Maven is used for
+logic and data handling are categorize into separate interactive layers. Maven is used for
 managing and maintaining the project, which is deployed through a Docker image. JUnit is used for
 integration and unit testing. The following include some of the key technologies used in this
 implementation:
