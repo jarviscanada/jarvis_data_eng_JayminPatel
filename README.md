@@ -35,7 +35,7 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_JayminPate
 
 ## Professional Experiences
 
-**Software Developer, Jarvis (2021-present)**: Work as a Data Engineer in an Aglie/Scrum environment to develop and implement solutions to various problems within the Jarvis team. Designed and implemented various software project and service-side application, hands on development experience with Python, Java, SQL, Linux, and deployment using Git and Docker.
+**Software Developer, Jarvis (Oct 2021-January 2022)**: Work as a Data Engineer in an Aglie/Scrum environment to develop and implement solutions to various problems within the Jarvis team. Designed and implemented various software project and service-side application, hands on development experience with Python, Java, SQL, Linux, and deployment using Git and Docker.
 
 **Software Developer, L & T Infotech (2017 - 2020)**: Designed the web application using Python on Django web framework to make it extensible and flexible. Used the model view controller (mvc) framework to build modular and maintainable applications. Designed and developed the UI of the website using HTML,CSS and JavaScript. Created Django class based Rest API for the application. Used JavaScript for validations of all the web pages in the application. Designed data management system using SQL. Wrote python modules to extract/load asset data from the SQL source database. Performed database operations and queries using SQL.
 
