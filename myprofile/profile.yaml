@@ -26,6 +26,7 @@ skills:
     - Spring Boot
     - AWS
     - Terraform
+    - Jenkins
   # At least 5 skills
   familiar:
     - HTML/CSS
