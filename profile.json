@@ -69,6 +69,12 @@
   ],
   "professional_experience": [
     {
+      "company": "National Bank of Canada",
+      "description": "Experience in Amazon Web Service (AWS) provisioning and good knowledge of AWS service like IAM, Cloud Watch, S3, ElasticLoad-balancers. Used AWS Cloud watch as a monitoring tool to check the health status of the virtual instances. Created lambda that read CloudWatch logs and store in S3 bucket using Python also Build S3 bucket and managed policies for S3 bucket and used S3 bucket for storage and backup on AWS. Created scripts in Python which integrated with Amazon API to control instance operation. Managed and Maintain code repository in Git, improved practices of branching and code merge for custom needs of development team.",
+      "duration": "Jan 2022 - June 2022",
+      "title": "Application Developer"
+    },
+    {
       "company": "Jarvis",
       "description": "Work as a Data Engineer in an Aglie/Scrum environment to develop and implement solutions to various problems within the Jarvis team. Designed and implemented various software project and service-side application, hands on development experience with Python, Java, SQL, Linux, and deployment using Git and Docker.",
       "duration": "2021-present",
