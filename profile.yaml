@@ -24,6 +24,8 @@ skills:
     - Docker
     - Linux/Bash
     - Spring Boot
+    - AWS
+    - Terraform
   # At least 5 skills
   familiar:
     - HTML/CSS
